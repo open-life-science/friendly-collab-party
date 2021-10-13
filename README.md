@@ -19,3 +19,9 @@ This is my test repository for OLS-4 cohort's GitHub Workshop.
 Image source: https://www.nobledesktop.com/learn/git/remote-repository
 
 [Image source](https://www.nobledesktop.com/learn/git/remote-repository)
+
+### Things to do after this workshop
+
+- Create your OLS project repo
+- Add vision and roadmap
+- Create a website
